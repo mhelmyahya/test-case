@@ -110,13 +110,13 @@ img {
     position:absolute;
     padding: 0;
     margin: 0;
-    width:1512px;
+    width:100%;
     height:86px;
     background: #1391AD;
     align-items: center;
     }
 
-.isi .container .benefit {
+.isi .benefit {
     position: absolute;
     display: flex;
     flex-direction: row;
@@ -135,10 +135,11 @@ img {
 
 .isi .youtube {
     padding-top: 175px;
-    width: 1512px;
+    width: 100%;
     height: 86px;
     left: 96px;
     top: 868px;
+    align-items: center;
 }
 /* isi */
 
